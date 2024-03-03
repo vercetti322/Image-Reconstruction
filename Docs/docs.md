@@ -1,3 +1,0 @@
-# Image Reconstruction
-
-## PCA Analysis
